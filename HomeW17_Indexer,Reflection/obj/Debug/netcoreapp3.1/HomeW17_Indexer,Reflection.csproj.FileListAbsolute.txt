@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\bin\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.exe
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\bin\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.deps.json
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\bin\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.runtimeconfig.json
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\bin\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\bin\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.dll
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\bin\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.pdb
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.dll
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.pdb
+C:\Users\OMEN\source\repos\HomeW17_Indexer,Reflection\HomeW17_Indexer,Reflection\obj\Debug\netcoreapp3.1\HomeW17_Indexer,Reflection.genruntimeconfig.cache
